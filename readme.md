@@ -24,6 +24,6 @@ This Python project implements a Rock-Paper-Scissors game where the computer det
 4. The computer will detect your gesture and determine the winner (you or the computer).
 
 **Screeshots**
-![Screenshot](screenshots\ss1.png)
-![Screenshot](screenshots\ss2.png)
+![Screenshot](screenshots/ss1.png)
+![Screenshot](screenshots/ss2.png)
 
